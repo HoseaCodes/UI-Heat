@@ -1,4 +1,4 @@
-# UI Heat - Frontend Toolkit
+# <div style="display: flex; align-items: center;"><img src="assets/logo.png" width="50px" height="50px"> UI Heat - Frontend Toolkit </p>
 
 UI Heat is a versatile, feature-packed component library designed to empower developers in building dynamic and visually appealing user interfaces. With a rich collection of stylized components, prebuilt elements, and powerful JavaScript plugins, UI Heat simplifies the frontend development process and allows you to bring your projects to life with ease.
 
