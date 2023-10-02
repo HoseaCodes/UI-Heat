@@ -35,9 +35,12 @@ jobs:
         with:
           node-version: 16.x
       - name: Move Into Docs
-        run: cd docs
+        run: |
+          ls
+          cd docs
+          ls
       - name: Install dependencies
-        run: npm install --frozen-lockfile --non-interactive
+        run: npm install
       - name: Build
         run: npm run build
       - name: Setup Pages
